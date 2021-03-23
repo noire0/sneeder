@@ -82,7 +82,7 @@ int main(int argc, char *argv[])
 	{
 		// help
 		if (strcmp(argv[i], "-h") == 0)
-	{
+		{
 			puts(helpMessage);
 			exit(0);
 		}
